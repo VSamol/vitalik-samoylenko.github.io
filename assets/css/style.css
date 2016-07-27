@@ -1,0 +1,101 @@
+body {
+    background-color: #f6f6f4;
+    font-family: "Myriad Pro", Myriad, Arial;
+}
+
+.wrapper {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.fio-photo {
+    margin-top: 55px;
+    border-bottom: 1px solid #ccccce;
+}
+
+.my-info {
+    border-bottom: 1px solid #ccccce;
+}
+
+.my-info3 {
+    padding: 0 0 15px 1px;
+    border-bottom: 1px solid #ccccce;
+}
+
+img {
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-right: 2px solid #ccccce;
+}
+
+h1 {
+    margin: 0 0 24px;
+    padding: 0 0 0 7px;
+    font-family: Arial, sans-serif;
+    font-size: 23px;
+    text-transform: uppercase;
+}
+
+.fio-photo p {
+    margin: 21px 0 19px;
+    color: #60605f;
+}
+
+.my-info h3 {
+    margin: 15px 0 22px 2px;
+}
+
+.my-info2 h3 {
+    margin: 15px 0 20px 1px;
+}
+
+.my-info2 p {
+    margin: 0 0 0 37px;
+    color: #464647;
+}
+
+.my-info3 h3 {
+    margin: 11px 0 20px;
+}
+
+.my-info3 p {
+    margin: 0 0 18px 35px;
+    color: #464647;
+}
+
+.my-info4 h3 {
+    margin: 15px 0 20px 1px;
+}
+
+.my-info4 p {
+    margin: 0 0 0 36px;
+    color: #464647;
+}
+
+.ankor-vk {
+    margin: 0 0 2px 34px;
+}
+
+ul {
+    margin: 0 0 17px 32px;
+    padding: 0 0 4px;
+    color: #464647;
+    font-size: 14px;
+}
+
+li {
+    padding: 2px 0;
+    font-size: 13px;
+}
+
+a {
+    color: #1964d4;
+    font-size: 14px;
+    font-style: italic;
+}
+
+p {
+    font-size: 14px;
+}
